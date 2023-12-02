@@ -8,7 +8,7 @@ Kyle Spragg
   Email: kylesspragg@gmail.com
   Role: Deputy Administrator
 
-Aiden Ingram
+Aidan Ingram
   Email: aidan.ingram03@gmail.com
   Role: Configuration Manager
 
